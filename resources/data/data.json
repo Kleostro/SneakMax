@@ -1,0 +1,478 @@
+[
+  {
+    "id":1,
+    "vendor": "001",
+    "quantity": "16 шт",
+    "title":"Кроссовки Reebok Club C 85",
+    "oldPrice":10000,
+    "price":7490,
+    "mainImage":"./resources/data/images/1/1.webp",
+    "gallery":[
+      "./resources/data/images/1/1.webp",
+      "./resources/data/images/1/2.webp",
+      "./resources/data/images/1/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая впечатление, что они хранились в шкафу долгие годы. ",
+    "chars":{
+      "Пол":"Мужское",
+      "Цвета":"Разноцветный",
+			"Страна": "Вьетнам",
+      "Состав":"Кожа, текстиль, резина"
+    },
+    "video":"https://www.youtube.com/embed/d1aMNvKUtx0"
+  },
+  {
+    "id":2,
+    "vendor": "002",
+    "quantity": "10 шт",
+    "title":"Кроссовки Nike Waffle Trainer 2 SP",
+    "oldPrice":10000,
+    "price":8500,
+    "mainImage":"./resources/data/images/2/1.webp",
+    "gallery":[
+      "./resources/data/images/2/1.webp",
+      "./resources/data/images/2/2.webp",
+      "./resources/data/images/2/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая ",
+    "chars":{
+      "Страна":"Индонезия",
+      "Цвета":"Оранжевый",
+      "Состав":"Текстиль, резина"
+    }
+  },
+	{
+    "id":3,
+    "vendor": "003",
+    "quantity": "15 шт",
+    "title":"Кроссовки adidas Originals Broomfield",
+    "oldPrice":10000,
+    "price":8490,
+    "mainImage":"./resources/data/images/3/1.webp",
+    "gallery":[
+      "./resources/data/images/3/1.webp",
+      "./resources/data/images/3/2.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая ",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Синий",
+      "Состав":"Кожа, синтетика, текстиль, резина"
+    }
+  },
+	{
+    "id":4,
+    "vendor": "004",
+    "quantity": "12 шт",
+    "title":"Кроссовки Nike WMNS Lahar Low",
+    "oldPrice":14380,
+    "price":11000,
+    "mainImage":"./resources/data/images/4/1.webp",
+    "gallery":[
+      "./resources/data/images/4/1.webp",
+      "./resources/data/images/4/2.webp",
+			"./resources/data/images/4/3.webp",
+      "./resources/data/images/4/4.webp",
+			"./resources/data/images/4/5.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая ",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Коричневый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":5,
+    "vendor": "005",
+    "quantity": "12 шт",
+    "title":"Кроссовки Nike WMNS Blazer Mid",
+    "oldPrice":10000,
+    "price":8490,
+    "mainImage":"./resources/data/images/5/1.webp",
+    "gallery":[
+      "./resources/data/images/5/1.webp",
+      "./resources/data/images/5/2.webp",
+			"./resources/data/images/5/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Белый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":6,
+    "vendor": "006",
+    "quantity": "16 шт",
+    "title":"Кроссовки Nike Air Force 1",
+    "oldPrice":13000,
+    "price":9990,
+    "mainImage":"./resources/data/images/6/1.webp",
+    "gallery":[
+      "./resources/data/images/6/1.webp",
+      "./resources/data/images/6/2.webp",
+			"./resources/data/images/6/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Серый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":7,
+    "vendor": "007",
+    "quantity": "20 шт",
+    "title":"Кроссовки PUMA Suede Teams",
+    "oldPrice":10000,
+    "price":6990,
+    "mainImage":"./resources/data/images/7/1.webp",
+    "gallery":[
+      "./resources/data/images/7/1.webp",
+      "./resources/data/images/7/2.webp",
+			"./resources/data/images/7/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Румыния",
+      "Цвета":"Зеленый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":8,
+    "vendor": "008",
+    "quantity": "16 шт",
+    "title":"Кроссовки PUMA Ralph Samspon",
+    "oldPrice":15000,
+    "price":9990,
+    "mainImage":"./resources/data/images/8/1.webp",
+    "gallery":[
+      "./resources/data/images/8/1.webp",
+      "./resources/data/images/8/2.webp",
+			"./resources/data/images/8/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Китай",
+      "Цвета":"Белый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":9,
+    "vendor": "009",
+    "quantity": "6 шт",
+    "title":"Кроссовки Nike Air Force",
+    "oldPrice":13470,
+    "price":11000,
+    "mainImage":"./resources/data/images/9/1.webp",
+    "gallery":[
+      "./resources/data/images/9/1.webp",
+      "./resources/data/images/9/2.webp",
+			"./resources/data/images/9/3.webp",
+			"./resources/data/images/9/4.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Белый / Розовый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":10,
+    "vendor": "010",
+    "quantity": "13 шт",
+    "title":"Кроссовки Reebok Club C 85",
+    "oldPrice":10000,
+    "price":7490,
+    "mainImage":"./resources/data/images/1/1.webp",
+    "gallery":[
+      "./resources/data/images/1/1.webp",
+      "./resources/data/images/1/2.webp",
+      "./resources/data/images/1/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая впечатление, что они хранились в шкафу долгие годы. ",
+    "chars":{
+      "Пол":"Мужское",
+      "Цвета":"Разноцветный",
+			"Страна": "Вьетнам",
+      "Состав":"Кожа, текстиль, резина"
+    },
+    "video":"https://www.youtube.com/embed/d1aMNvKUtx0"
+  },
+  {
+    "id":11,
+    "vendor": "0011",
+    "quantity": "11 шт",
+    "title":"Кроссовки Nike Waffle Trainer 2 SP",
+    "oldPrice":10000,
+    "price":8500,
+    "mainImage":"./resources/data/images/2/1.webp",
+    "gallery":[
+      "./resources/data/images/2/1.webp",
+      "./resources/data/images/2/2.webp",
+      "./resources/data/images/2/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая ",
+    "chars":{
+      "Страна":"Индонезия",
+      "Цвета":"Оранжевый",
+      "Состав":"Текстиль, резина"
+    }
+  },
+  {
+    "id":12,
+    "vendor": "012",
+    "quantity": "8 шт",
+    "title":"Кроссовки adidas Originals Broomfield",
+    "oldPrice":10000,
+    "price":8490,
+    "mainImage":"./resources/data/images/3/1.webp",
+    "gallery":[
+      "./resources/data/images/3/1.webp",
+      "./resources/data/images/3/2.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая ",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Белый",
+      "Состав":"Кожа, синтетика, текстиль, резина"
+    }
+  },
+	{
+    "id":13,
+    "vendor": "013",
+    "quantity": "2 шт",
+    "title":"Кроссовки Nike WMNS Lahar Low",
+    "oldPrice":16000,
+    "price":11000,
+    "mainImage":"./resources/data/images/4/1.webp",
+    "gallery":[
+      "./resources/data/images/4/1.webp",
+      "./resources/data/images/4/2.webp",
+			"./resources/data/images/4/3.webp",
+      "./resources/data/images/4/4.webp",
+			"./resources/data/images/4/5.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"Кроссовки Nike Blazer Mid '77 Vintage Suede с винтажной подошвой возрождают стиль баскетбольных моделей Nike прошлого, создавая ",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Коричневый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":14,
+    "vendor": "014",
+    "quantity": "6 шт",
+    "title":"Кроссовки Nike WMNS Blazer Mid",
+    "oldPrice":10000,
+    "price":8490,
+    "mainImage":"./resources/data/images/5/1.webp",
+    "gallery":[
+      "./resources/data/images/5/1.webp",
+      "./resources/data/images/5/2.webp",
+			"./resources/data/images/5/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Белый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":15,
+    "vendor": "015",
+    "quantity": "17 шт",
+    "title":"Кроссовки Nike Air Force 1",
+    "oldPrice":15000,
+    "price":9990,
+    "mainImage":"./resources/data/images/6/1.webp",
+    "gallery":[
+      "./resources/data/images/6/1.webp",
+      "./resources/data/images/6/2.webp",
+			"./resources/data/images/6/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Серый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+  {
+    "id":16,
+    "vendor": "016",
+    "quantity": "25 шт",
+    "title":"Кроссовки PUMA Suede Teams",
+    "oldPrice":10000,
+    "price":6990,
+    "mainImage":"./resources/data/images/7/1.webp",
+    "gallery":[
+      "./resources/data/images/7/1.webp",
+      "./resources/data/images/7/2.webp",
+			"./resources/data/images/7/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Румыния",
+      "Цвета":"Зеленый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":17,
+    "vendor": "017",
+    "quantity": "16 шт",
+    "title":"Кроссовки PUMA Ralph Samspon",
+    "oldPrice":15000,
+    "price":9990,
+    "mainImage":"./resources/data/images/8/1.webp",
+    "gallery":[
+      "./resources/data/images/8/1.webp",
+      "./resources/data/images/8/2.webp",
+			"./resources/data/images/8/3.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Китай",
+      "Цвета":"Белый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  },
+	{
+    "id":18,
+    "vendor": "018",
+    "quantity": "19 шт",
+    "title":"Кроссовки Nike Air Force",
+    "oldPrice":16000,
+    "price":11000,
+    "mainImage":"./resources/data/images/9/1.webp",
+    "gallery":[
+      "./resources/data/images/9/1.webp",
+      "./resources/data/images/9/2.webp",
+			"./resources/data/images/9/3.webp",
+			"./resources/data/images/9/4.webp"
+    ],
+    "sizes":[
+      36,
+      37,
+      38,
+			39
+    ],
+    "description":"WMNS Blazer Mid '77 SE — кроссовки в женской размерной сетке выполнены из натуральной кожи с контрастными swoosh с принтом шкуры леопарда. Модель средней высоты укреплена вставками из натуральной замши и посажена на подошву белого оттенка с зигзагообразным узором протектора.",
+    "chars":{
+      "Страна":"Вьетнам",
+      "Цвета":"Белый / Розовый",
+      "Состав":"Кожа, текстиль, резина"
+    }
+  }
+]
